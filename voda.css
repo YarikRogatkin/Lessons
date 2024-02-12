@@ -1,0 +1,44 @@
+body {
+    background-image: url(vv.jpg);
+    color: white;
+    background-position-x: center;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-color: aqua;
+}
+.info{
+    color: white;
+    border-radius: 30px;
+    font-size: 20px;
+    background-color: green;
+    border: 3px solid #873e23;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+
+
+}
+.zagl {
+    text-align: center ;
+    font-size: 40px;
+    margin: 10px;
+    margin-right: 200px;
+    color: white;
+
+
+
+
+}
+.image-butt {
+    width: 200px;
+    height: 200px;
+    border: none;
+    background-image: url('logo.jpg');
+    text-align: left;
+    display: inline-block;
+    float: left;
+
+}

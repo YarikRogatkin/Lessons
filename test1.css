@@ -1,0 +1,59 @@
+body{
+    background-image: url(https://equesto.ru/wp-content/uploads/2021/01/shavlinskoe-ozero.jpg);
+    color: white;
+    background-size: cover;
+
+}
+a{
+    color:orangered;
+    font-size:20px;
+    text-align: center;
+}
+
+.vid{
+    font-size: 40px;
+    background-color: green;
+    border: 3px solid #873e23;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+.voda{
+    color: aqua;
+    text-align: center;
+}
+.moun{
+    color: coral;
+    text-align: center;
+}
+.vid:hover{
+    border: 10px solid#873e23;
+    padding: 20px;
+}
+#test{
+transform: scale(0.5);
+    transition: 1.0s;
+    background-color:#00cc00;
+    color:#ffffff;
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid #873e23;
+    border-radius: 30px;
+    opacity: 1;
+    text-align: center;
+    font-size: 50px;
+}
+#test:hover{
+    transform: rotate(45deg)scale(0.3);
+}
+
+.zagl{
+    text-align: center;
+    font-size: 40px;
+    margin: 20px;
+    color: white;
+
+}
